@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "700348253330",
+    "firebase_url": "https://imagepro-a8c67.firebaseio.com",
+    "project_id": "imagepro-a8c67",
+    "storage_bucket": "imagepro-a8c67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700348253330:android:89b9a43386e2425a",
+        "android_client_info": {
+          "package_name": "com.example.android.imagepro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700348253330-g7ugfaevrpv29286fqscr1g3h8p4lc6n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.imagepro",
+            "certificate_hash": "ba27b6d40dcd7d7a3d9eccf3762c72a1045374e7"
+          }
+        },
+        {
+          "client_id": "700348253330-ng40r50c17f9oqfor9i8dc2373p166vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp-JYZJ8PKE4W6W_JPdr87Bjjkm-SNl8M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700348253330-ng40r50c17f9oqfor9i8dc2373p166vk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
